@@ -11,17 +11,18 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olavac28&show_icons=true&theme=tokyonight" />
-</p>
-
-<h2>👾 Most used languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olavac28&layout=compact&theme=tokyonight" />
-</p>
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" valign="top" style="border: none;">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Olavac28&show_icons=true&theme=tokyonight" height="195px" />
+    </td>
+    <td align="center" valign="top" style="border: none;">
+      <h3>👾 Most used languages</h3>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Olavac28&layout=compact&theme=tokyonight" height="195px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
